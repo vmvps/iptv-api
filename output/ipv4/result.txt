@@ -1,7 +1,12 @@
 🕘️更新时间,#genre#
-2025-11-22 06:20:22,http://bxtv.3a.ink/migu.php?id=cctv14
+2025-11-22 18:20:38,http://sh.lnott.top:880/dx03.m3u8
 
 📺央视频道,#genre#
+CCTV-3,http://sh.lnott.top:880/dx03.m3u8
+CCTV-7,http://sh.lnott.top:880/dx07.m3u8
+CCTV-8,http://sh.lnott.top:880/dx08.m3u8
+CCTV-11,http://sh.lnott.top:880/dx11.m3u8
+CCTV-13,http://sh.lnott.top:880/dx13.m3u8
 CCTV-14,http://bxtv.3a.ink/migu.php?id=cctv14
 CCTV-15,http://bxtv.3a.ink/migu.php?id=cctv15
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
@@ -14,10 +19,12 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 📡卫视频道,#genre#
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
+浙江卫视,http://60.16.0.216:5757/hls/22/index.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 四川卫视,http://183.184.47.145:8001/rtp/226.0.1.250:2126
+天津卫视,http://sh.lnott.top:880/dx30.m3u8
 
 🎵音乐频道,#genre#
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
