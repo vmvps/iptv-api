@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-11-23 06:19:07,http://sh.lnott.top:880/dx13.m3u8
+2025-11-23 18:20:21,http://bxtv.3a.ink/migu.php?id=cctv14
 
 📺央视频道,#genre#
-CCTV-13,http://sh.lnott.top:880/dx13.m3u8
 CCTV-14,http://bxtv.3a.ink/migu.php?id=cctv14
 CCTV-15,http://bxtv.3a.ink/migu.php?id=cctv15
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
