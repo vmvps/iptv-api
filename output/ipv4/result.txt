@@ -1,16 +1,27 @@
 🕘️更新时间,#genre#
-2025-12-09 06:21:33,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+2025-12-09 18:27:06,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 
 📺央视频道,#genre#
 CCTV-1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+CCTV-1,http://play.kankanlive.com/live/1698234869325962.m3u8
+CCTV-2,https://play.kankanlive.com/live/1698234898628961.m3u8
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
+CCTV-4,https://play.kankanlive.com/live/1698234936258960.m3u8
 CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
 CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 CCTV-9,http://183.220.107.138:4022/rtp/239.11.0.111:5140
+CCTV-9,https://play.kankanlive.com/live/1698423397390920.m3u8
+CCTV-10,https://play.kankanlive.com/live/1698423445959919.m3u8
 CCTV-11,http://183.220.107.138:4022/rtp/239.11.0.22:5140
+CCTV-11,https://play.kankanlive.com/live/1698423476198918.m3u8
+CCTV-12,https://play.kankanlive.com/live/1698423511884917.m3u8
 CCTV-13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
+CCTV-13,https://play.kankanlive.com/live/1698423543275916.m3u8
+CCTV-14,https://play.kankanlive.com/live/1698423575756915.m3u8
+CCTV-15,https://play.kankanlive.com/live/1698423607826914.m3u8
+CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8
 CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
 CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 
@@ -26,9 +37,10 @@ CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://171.125.90.120:6001/rtp/226.0.1.246:2125
 湖南卫视,http://zqh2333.top:2222/rtp/239.94.0.116:5140
+湖南卫视,http://171.125.90.120:6001/rtp/226.0.1.246:2125
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 四川卫视,http://zqh2333.top:2222/rtp/239.94.0.115:5140
 四川卫视,http://171.125.90.120:6001/rtp/226.0.1.250:2126
