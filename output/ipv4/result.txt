@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-27 06:21:20,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
+2025-12-27 18:21:37,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
 
 📺央视频道,#genre#
 CCTV-1,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
@@ -20,10 +20,10 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://171.83.103.119:9999/rtp/239.69.1.27:9802
 湖南卫视,http://171.83.103.119:9999/rtp/239.69.2.34:11358
-北京卫视,http://yp.qqqtv.top/1/api.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86HD&auth=666858
+湖南卫视,http://171.83.103.119:9999/rtp/239.69.1.27:9802
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://yp.qqqtv.top/1/api.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86HD&auth=666858
 湖北卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86HD&auth=666858
 重庆卫视,http://yp.qqqtv.top/1/api.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86HD&auth=666858
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
