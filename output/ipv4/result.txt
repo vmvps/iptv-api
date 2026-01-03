@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-01-03 18:22:18,https://v4-7b232e9a7ece13f936b4e19cb1594132.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=5ce653679128614e5f2a5f9fe7008c67
+2026-01-04 06:20:47,http://112.254.55.106:22222/rtp/239.253.254.110:8000
 
 📺央视频道,#genre#
-CCTV-9,https://v4-7b232e9a7ece13f936b4e19cb1594132.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=5ce653679128614e5f2a5f9fe7008c67
 CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
 CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
@@ -22,9 +21,7 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 广西卫视,http://tvlist.top/jd/index.php?id=gxws&qt=183.224.122.114:8014
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-山西卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://zqh2333.top:2222/rtp/239.94.0.115:5140
-深圳卫视,http://222.214.208.34:59901/tsfile/live/0126_1.m3u8
 
 🎵音乐频道,#genre#
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
