@@ -1,21 +1,21 @@
 🕘️更新时间,#genre#
-2026-06-13 07:17:31,https://iptv.catvod.com/catvod?id=CCTV1%E7%BB%BC%E5%90%88&line=1
+2026-06-13 19:54:37,https://iptv.catvod.com/catvod?id=CCTV1%E7%BB%BC%E5%90%88&line=1
 
 📺央视频道,#genre#
 CCTV-1,https://iptv.catvod.com/catvod?id=CCTV1%E7%BB%BC%E5%90%88&line=1
+CCTV-2,https://iptv.catvod.com/catvod?id=CCTV2&line=5
 CCTV-2,https://iptv.catvod.com/catvod?id=CCTV-2%E9%AB%98%E6%B8%85&line=1
 CCTV-2,https://iptv.catvod.com/catvod?id=CCTV2&line=3
-CCTV-2,https://iptv.catvod.com/catvod?id=CCTV2&line=5
 CCTV-3,https://iptv.catvod.com/catvod?id=CCTV3&line=8
 CCTV-3,https://iptv.catvod.com/catvod?id=CCTV3&line=10
-CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4&line=13
-CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4&line=15
 CCTV-4,https://iptv.catvod.com/catvod?id=CCTV-4%E9%AB%98%E6%B8%85&line=1
+CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1
 CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4&line=5
 CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4&line=4
-CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4&line=3
-CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1
 CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4&line=14
+CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4&line=3
+CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4&line=13
+CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4&line=15
 CCTV-5,https://iptv.catvod.com/catvod?id=CCTV5%E4%BD%93%E8%82%B2&line=1
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
 CCTV-5,https://iptv.catvod.com/catvod?id=CCTV5%2B&line=2
@@ -28,36 +28,43 @@ CCTV-11,https://iptv.catvod.com/catvod?id=CCTV11&line=6
 CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=9
 CCTV-13,http://207.56.13.146:81/cdnlive/cctv13.m3u8
 CCTV-14,https://iptv.catvod.com/catvod?id=CCTV14&line=4
+CCTV-15,http://222.134.245.16:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16,http://198.204.228.26/live/cctv16hd.m3u8
 CCTV-17,https://iptv.catvod.com/catvod?id=CCTV17&line=5
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 
 💰央视付费频道,#genre#
-风云音乐,http://173.208.212.130:8181/720p/fyyy.m3u8
 世界地理,http://107.150.60.122/live/sjdl.m3u8
 
 📡卫视频道,#genre#
+广东卫视,http://173.208.212.130:8181/720p/gdws.m3u8
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
+浙江卫视,http://173.208.212.130:8181/720p/zjws.m3u8
 湖南卫视,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=2
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://173.208.212.130:8181/720p/hnws.m3u8
 北京卫视,http://107.150.60.122/live/bjwshd.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://198.204.228.26/live/hbwshd.m3u8
 黑龙江卫视,http://192.151.150.154/live/hljwshd.m3u8
 黑龙江卫视,http://198.204.228.26/live/hljwshd.m3u8
 安徽卫视,http://198.204.228.26/live/ahwshd.m3u8
-安徽卫视,http://192.151.150.154/live/ahwshd.m3u8
 安徽卫视,http://107.150.60.122/live/ahwshd.m3u8
+安徽卫视,http://192.151.150.154/live/ahwshd.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+东方卫视,http://173.208.212.130:8181/720p/dfws.m3u8
 东南卫视,http://198.204.228.26/live/dnwshd.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://192.151.150.154/live/hawshd.m3u8
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
 宁夏卫视,http://198.204.228.26/live/nxws.m3u8
 宁夏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxws
-四川卫视,http://www.taoli.website:23234/rtp/239.3.1.29:8288
-天津卫视,http://198.204.228.26/live/tjwshd.m3u8
+山西卫视,http://204.12.221.218:8181/3m1080p/sxws.m3u8
+四川卫视,https://live.264788.xyz/channel/sichuanweishi?streamid=4e78b35cb55092e088d2e3abd2992b00&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 天津卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjwshd
+天津卫视,http://198.204.228.26/live/tjwshd.m3u8
+西藏卫视,http://204.12.221.218:8181/3m1080p/xzws.m3u8
+云南卫视,http://204.12.221.218:8181/3m1080p/ynws.m3u8
 
 🎵音乐频道,#genre#
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
