@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-07-11 19:05:48,http://182.37.41.46:8154/tsfile/live/0003_1.m3u8?key=txiptv
+2026-07-12 06:48:31,http://www.negative.top:50000/rtp/233.50.200.109:5140
 
 📺央视频道,#genre#
-CCTV-3,http://182.37.41.46:8154/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
@@ -14,12 +13,11 @@ CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 📡卫视频道,#genre#
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://182.37.41.46:8154/tsfile/live/0128_1.m3u8?key=txiptv
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 安徽卫视,http://204.12.221.218:8181/3m1080p/ahws.m3u8
-东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
 东南卫视,http://198.204.228.26/live/dnwshd.m3u8
+东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
@@ -27,8 +25,6 @@ CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
 宁夏卫视,http://198.204.228.26/live/nxws.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
-深圳卫视,http://182.37.41.46:8154/tsfile/live/0126_1.m3u8?key=txiptv
-天津卫视,http://182.37.41.46:8154/tsfile/live/0135_1.m3u8?key=txiptv
 
 🎵音乐频道,#genre#
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
