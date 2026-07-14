@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-14 06:56:11,http://www.negative.top:50000/rtp/233.50.200.109:5140
+2026-07-14 19:25:33,http://www.negative.top:50000/rtp/233.50.200.109:5140
 
 📺央视频道,#genre#
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
@@ -19,7 +19,6 @@ CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 安徽卫视,http://204.12.221.218:8181/3m1080p/ahws.m3u8
 东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
 东南卫视,http://198.204.228.26/live/dnwshd.m3u8
-甘肃卫视,https://live.264788.xyz/channel/gansuweishi?streamid=ea89500213860e097dbc0aee4897a35e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
