@@ -1,14 +1,12 @@
 🕘️更新时间,#genre#
-2026-08-05 20:00:03,http://39.77.159.145:4002/rtp/239.253.254.192:8000
+2026-08-06 06:58:55,http://39.77.159.145:4002/rtp/239.253.254.80:8000
 
 📺央视频道,#genre#
-CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.192:8000
 CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.80:8000
-CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
+CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.192:8000
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-13,http://111.4.59.41:60901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 
 💰央视付费频道,#genre#
 兵器科技,http://192.151.150.154/live/gfjs.m3u8
@@ -20,12 +18,10 @@ CCTV-13,http://111.4.59.41:60901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&a
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 重庆卫视,http://192.151.150.154/live/cqwshd.m3u8
 东南卫视,http://198.204.228.26/live/dnwshd.m3u8
-东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
-四川卫视,http://vpn.famcloud.top:9878/rtp/239.3.1.29:8288
 
 🎵音乐频道,#genre#
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
