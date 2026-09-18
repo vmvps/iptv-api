@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-18 07:56:07,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+2026-09-18 22:07:54,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📺央视频道,#genre#
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
@@ -12,13 +12,8 @@ CETV-1,http://106.3.210.21/mobilelive-pull.ysp.cctv.cn/ysp/2022823801.m3u8
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://101.66.198.207:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://101.66.198.207:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视,http://101.66.198.207:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-东方卫视,http://101.66.198.207:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
-河南卫视,http://101.66.198.207:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 
 🎵音乐频道,#genre#
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
