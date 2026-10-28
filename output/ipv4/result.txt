@@ -1,9 +1,13 @@
 🕘️更新时间,#genre#
-2026-10-28 08:59:52,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+2026-10-29 00:27:24,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=0f7d0867cd4b26dc6110e815cdf4866d
 
 📺央视频道,#genre#
+CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=0f7d0867cd4b26dc6110e815cdf4866d
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+CETV-1,http://112.103.141.123:1234/923287154
 CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+CETV-2,http://112.103.141.123:1234/923287211
+CETV-4,http://112.103.141.123:1234/923287339
 
 💰央视付费频道,#genre#
 第一剧场,http://zby.lskk.top/cdnlive.php?mode=play&id=dfc5e2217c10d2abe2ed38e3c2ccde04&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
