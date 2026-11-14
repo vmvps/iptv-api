@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2026-11-14 01:31:46,http://45.192.97.170:8880/play/441.m3u8
+2026-11-14 09:59:42,http://45.192.97.170:8880/play/441.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://45.192.97.170:8880/play/441.m3u8
 CCTV-1,http://173.208.234.146/live/cctv1.m3u8
 CCTV-4,http://173.208.234.146/live/cctv4.m3u8
-CCTV-5,http://45.192.97.170:8880/play/196.m3u8
 CCTV-6,http://45.192.97.170:8880/play/446.m3u8
 CCTV-7,http://173.208.234.146/live/cctv7.m3u8
 CCTV-10,http://45.192.97.170:8880/play/450.m3u8
@@ -21,10 +20,10 @@ CCTV-11,http://45.192.97.170:8880/play/451.m3u8
 广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8
 浙江卫视,http://45.192.97.170:8880/play/489.m3u8
 浙江卫视,http://74.91.26.218:82/live/zjwshd.m3u8
-湖南卫视,http://45.192.97.170:8880/play/476.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-北京卫视,http://45.192.97.170:8880/play/509.m3u8
+湖南卫视,http://45.192.97.170:8880/play/476.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://45.192.97.170:8880/play/509.m3u8
 重庆卫视,http://45.192.97.170:8880/play/511.m3u8
 东方卫视,http://45.192.97.170:8880/play/513.m3u8
 东方卫视,http://74.91.26.218:82/live/dfwshd.m3u8
